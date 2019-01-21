@@ -1,0 +1,6 @@
+[submodule "Assets/_External/STToolBox"]
+	path = Assets/_External/STToolBox
+	url = https://github.com/TheDustyDoge/STToolBox.git
+[submodule "Assets/_External/STToolBox_VR"]
+	path = Assets/_External/STToolBox_VR
+	url = https://github.com/TheDustyDoge/STToolBox_VR.git
